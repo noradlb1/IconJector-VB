@@ -2,6 +2,10 @@
 IconJector-VB
 
 
+The project is not finished yet
+
+
+
 ![](IconJectorVB.PNG)
 
 
